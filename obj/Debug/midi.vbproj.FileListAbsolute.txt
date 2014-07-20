@@ -1,0 +1,17 @@
+E:\COMP343\s2010_assignments\a1\a1_start\bin\midi_sequencer.exe
+E:\COMP343\s2010_assignments\a1\a1_start\bin\midi_sequencer.pdb
+E:\COMP343\s2010_assignments\a1\a1_start\bin\midi_sequencer.xml
+E:\COMP343\s2010_assignments\a1\a1_start\obj\Debug\ResolveAssemblyReference.cache
+E:\COMP343\s2010_assignments\a1\a1_start\obj\Debug\midi_sequencer.frmMidiPiano.resources
+E:\COMP343\s2010_assignments\a1\a1_start\obj\Debug\midi.vbproj.GenerateResource.Cache
+E:\COMP343\s2010_assignments\a1\a1_start\obj\Debug\midi_sequencer.exe
+E:\COMP343\s2010_assignments\a1\a1_start\obj\Debug\midi_sequencer.xml
+E:\COMP343\s2010_assignments\a1\a1_start\obj\Debug\midi_sequencer.pdb
+C:\Users\Chun Sum Mar\Desktop\a1_source\a1_start\obj\Debug\midi_sequencer.exe
+C:\Users\Chun Sum Mar\Desktop\a1_source\a1_start\obj\Debug\midi_sequencer.xml
+C:\Users\Chun Sum Mar\Desktop\a1_source\a1_start\obj\Debug\midi_sequencer.pdb
+C:\Users\Chun Sum Mar\Desktop\a1_source\a1_start\bin\midi_sequencer.exe
+C:\Users\Chun Sum Mar\Desktop\a1_source\a1_start\bin\midi_sequencer.pdb
+C:\Users\Chun Sum Mar\Desktop\a1_source\a1_start\bin\midi_sequencer.xml
+C:\Users\Chun Sum Mar\Desktop\a1_source\a1_start\obj\Debug\midi_sequencer.frmMidiPiano.resources
+C:\Users\Chun Sum Mar\Desktop\a1_source\a1_start\obj\Debug\midi.vbproj.GenerateResource.Cache
